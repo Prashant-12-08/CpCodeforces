@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
-#define Y cout << "YES" << endl
-#define N cout << "NO" << endl
+#define YES cout << "YES" << endl
+#define NO cout << "NO" << endl
 
 int main()
 {
